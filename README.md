@@ -24,6 +24,12 @@ Most of the information used in these notes came from the <a href='https://www.s
         <td>-</td>
     </tr>
     <tr>
+        <td>Spellcaster + Turtle</td>
+        <td>White Turtle 1250/2100</td>
+        <td>Mars/Mercury</td>
+        <td>-</td>
+    </tr>
+    <tr>
         <td>Female + Rock</td>
         <td>Mystical Sand 2100/1700</td>
         <td>Mercury/Saturn</td>
