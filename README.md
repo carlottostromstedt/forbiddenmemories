@@ -66,6 +66,12 @@ Most of the information used in these notes came from the <a href='https://www.s
         <td>-</td>
     </tr>
     <tr>
+        <td>Rock + Spellcaster</td>
+        <td>djini 2150/1400</td>
+        <td>Moon/Mars</td>
+        <td>-</td>
+    </tr>
+    <tr>
         <td>Thunder + Spellcaster</td>
         <td>The Immortal of Thunder 1500/1300</td>
         <td>Pluto/Sun</td>
