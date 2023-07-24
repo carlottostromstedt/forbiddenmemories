@@ -73,7 +73,7 @@ Most of the information used in these notes came from the <a href='https://www.s
     </tr>
     <tr>
         <td>Rock + Spellcaster</td>
-        <td>djini 2150/1400</td>
+        <td>Ushi oni 2150/1950</td>
         <td>Moon/Mars</td>
         <td>-</td>
     </tr>
